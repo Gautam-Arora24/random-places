@@ -4,8 +4,6 @@
 
 ## Usage
 
-<hr/>
-
 ```js
 const place = require("random-places");
 
