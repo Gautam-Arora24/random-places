@@ -1,8 +1,10 @@
 ## GET RANDOM NAMES OF PLACES FROM ALL OVER THE WORLD
 
-<!-- var random=require("random-places"); IMPORT THE LIBRARY TO YOUR FILE -->
+#### A simple [NPM](https://www.npmjs.com/package/random-places) Package which returns [random places]
 
 ## Usage
+
+<hr/>
 
 ```js
 const place = require("random-places");
