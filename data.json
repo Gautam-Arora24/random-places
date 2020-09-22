@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Delhi",
+    "country": "India"
+  },
+  {
+    "name": "Dubai",
+    "country": "United Arab Emirates"
+  },
+  {
+    "name": "Hanoi",
+    "country": "Vietnam"
+  },
+  {
+    "name": "Istanbul",
+    "country": "Turkey"
+  },
+  {
+    "name": "Geneva",
+    "country": "Switzerland"
+  }
+]

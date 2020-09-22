@@ -1,0 +1,21 @@
+{
+  "name": "random-places",
+  "version": "1.0.4",
+  "description": "Get random places from around the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gautam-Arora24/random-places.gitnp"
+  },
+  "keywords": [
+    "random",
+    "places",
+    "country",
+    "cities"
+  ],
+  "author": "Gautam Arora",
+  "license": "ISC"
+}
