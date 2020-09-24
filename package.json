@@ -8,10 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gautam-Arora24/random-places.gitnp"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "url": "https://github.com/Gautam-Arora24/random-places.git"
   },
   "keywords": [
     "random",
