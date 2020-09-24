@@ -42,5 +42,89 @@
   {
     "city": "Ottawa",
     "country": "Canada"
+  },
+  {
+    "city": "Dhaka",
+    "country": "Bangladesh"
+  },
+  {
+    "city": "Bulgaria",
+    "country": "Sofia"
+  },
+  {
+    "city": "China",
+    "country": "Beijing"
+  },
+  {
+    "city": "Chile",
+    "country": "Santiago"
+  },
+  {
+    "city": "Colombia",
+    "country": "Bogota"
+  },
+  {
+    "city": " Comoros ",
+    "country": " Moroni "
+  },
+  {
+    "city": "Denmark",
+    "country": "Copenhagen"
+  },
+  {
+    "city": "Ecuador",
+    "country": "Quito"
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt"
+  },
+  {
+    "city": "London",
+    "country": "England"
+  },
+  {
+    "city": "Ethiopia",
+    "country": "Addis Ababa"
+  },
+  {
+    "city": "Helsniki",
+    "country": "Finland"
+  },
+  {
+    "city": "Tbilisi",
+    "country": "Georgia"
+  },
+  {
+    "city": "Germany",
+    "country": "Berlin"
+  },
+  {
+    "city": "Accra",
+    "country": "Ghana"
+  },
+  {
+    "city": "Greece",
+    "country": "Athens"
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary"
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia"
+  },
+  {
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  {
+    "city": "Baghdad",
+    "country": "Iraq"
+  },
+  {
+    "city": "Ireland",
+    "country": "Dublin"
   }
 ]
