@@ -18,5 +18,54 @@
   {
     "city": "Geneva",
     "country": "Switzerland"
-  }
+  },
+  , 
+
+  { 
+
+    "city": "Kabul", 
+
+    "country": "Afghanistan" 
+
+  }, 
+
+  { 
+
+    "city": "Tirana", 
+
+    "country": "Albania" 
+
+  }, 
+
+  { 
+
+    "city": "Algiers", 
+
+    "country": "Algeria" 
+
+  }, 
+
+  { 
+
+    "city": "Andorra", 
+
+    "country": "Andorra la Vella" 
+
+  }, 
+
+  { 
+
+    "city": "Luanda", 
+
+    "country": "Angola" 
+
+  }, 
+
+  { 
+
+    "city": "Ottawa", 
+
+    "country": "Canada" 
+
+  } 
 ]
