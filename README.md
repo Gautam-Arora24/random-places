@@ -10,12 +10,12 @@ const place = require("random-places");
 console.log(getRandomPlace());
 ```
 
-• <b> getRandomPlace()</b> returns an object containing <b><i>city</i></b> and <b><i>country</i></b>
+• <b> getRandomPlace()</b> returns an object containing <b><i>name</i></b> and <b><i>country</i></b>
 </br>
 
 ```json
 {
-  "city": "Geneva",
+  "name": "Geneva",
   "country": "Switzerland"
 }
 ```

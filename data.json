@@ -1,130 +1,130 @@
 [
   {
-    "city": "Delhi",
+    "name": "Delhi",
     "country": "India"
   },
   {
-    "city": "Dubai",
+    "name": "Dubai",
     "country": "United Arab Emirates"
   },
   {
-    "city": "Hanoi",
+    "name": "Hanoi",
     "country": "Vietnam"
   },
   {
-    "city": "Istanbul",
+    "name": "Istanbul",
     "country": "Turkey"
   },
   {
-    "city": "Geneva",
+    "name": "Geneva",
     "country": "Switzerland"
   },
   {
-    "city": "Kabul",
+    "name": "Kabul",
     "country": "Afghanistan"
   },
   {
-    "city": "Tirana",
+    "name": "Tirana",
     "country": "Albania"
   },
   {
-    "city": "Algiers",
+    "name": "Algiers",
     "country": "Algeria"
   },
   {
-    "city": "Andorra",
+    "name": "Andorra",
     "country": "Andorra la Vella"
   },
   {
-    "city": "Luanda",
+    "name": "Luanda",
     "country": "Angola"
   },
   {
-    "city": "Ottawa",
+    "name": "Ottawa",
     "country": "Canada"
   },
   {
-    "city": "Dhaka",
+    "name": "Dhaka",
     "country": "Bangladesh"
   },
   {
-    "city": "Bulgaria",
+    "name": "Bulgaria",
     "country": "Sofia"
   },
   {
-    "city": "China",
-    "country": "Beijing"
+    "name": "Beijing",
+    "country": "China"
   },
   {
-    "city": "Chile",
+    "name": "Chile",
     "country": "Santiago"
   },
   {
-    "city": "Colombia",
+    "name": "Colombia",
     "country": "Bogota"
   },
   {
-    "city": " Comoros ",
+    "name": " Comoros ",
     "country": " Moroni "
   },
   {
-    "city": "Denmark",
+    "name": "Denmark",
     "country": "Copenhagen"
   },
   {
-    "city": "Ecuador",
+    "name": "Ecuador",
     "country": "Quito"
   },
   {
-    "city": "Cairo",
+    "name": "Cairo",
     "country": "Egypt"
   },
   {
-    "city": "London",
+    "name": "London",
     "country": "England"
   },
   {
-    "city": "Ethiopia",
+    "name": "Ethiopia",
     "country": "Addis Ababa"
   },
   {
-    "city": "Helsniki",
+    "name": "Helsniki",
     "country": "Finland"
   },
   {
-    "city": "Tbilisi",
+    "name": "Tbilisi",
     "country": "Georgia"
   },
   {
-    "city": "Germany",
+    "name": "Germany",
     "country": "Berlin"
   },
   {
-    "city": "Accra",
+    "name": "Accra",
     "country": "Ghana"
   },
   {
-    "city": "Greece",
+    "name": "Greece",
     "country": "Athens"
   },
   {
-    "city": "Budapest",
+    "name": "Budapest",
     "country": "Hungary"
   },
   {
-    "city": "Jakarta",
+    "name": "Jakarta",
     "country": "Indonesia"
   },
   {
-    "city": "Tehran",
+    "name": "Tehran",
     "country": "Iran"
   },
   {
-    "city": "Baghdad",
+    "name": "Baghdad",
     "country": "Iraq"
   },
   {
-    "city": "Ireland",
+    "name": "Ireland",
     "country": "Dublin"
   }
 ]
