@@ -1,6 +1,6 @@
 {
   "name": "random-places",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Get random places from around the world.",
   "main": "index.js",
   "scripts": {
