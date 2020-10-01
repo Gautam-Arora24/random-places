@@ -254,5 +254,253 @@
     {
         "name":"Mumbai",
         "country":"India"
+    },
+    {
+      "name": "Agdash",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Agjabadi",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Agstafa",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Agsu",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Astara",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Babek",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Baku",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Belokany",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Barda",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Beylagan",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Bilasuvar",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Daşkəsən",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Davachi",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Füzuli",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Gədəbəy",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Ganja",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Goranboy",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Goychay",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Goygol",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Hajigabul",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Imishli",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "İsmayıllı",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Jabrayil",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Julfa",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Kalbajar",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Khachmaz",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Khojavend",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Khyrdalan",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Kurdamir",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Lankaran",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Lerik",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Masally",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Mingacevir",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Nakhichevan",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Naftalan",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Neftçala",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Oghuz",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Ordubad",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Qabala",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Qakh",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Qazakh",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Quba",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Qubadli",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Qusar",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Saatlı",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Sabirabad",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Shakhbuz",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Shaki",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Şamaxı",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Şəmkir",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Şərur",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Shirvan",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Siazan",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Sumqayit",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Tərtər",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Tovuz",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Ucar",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Yardımlı",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Yevlakh",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Zaqatala",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Zardab",
+      "country": "Azerbaijan"
+    },
+    { 
+      "name": "Zangilan",
+      "country": "Azerbaijan"
     }
 ]
