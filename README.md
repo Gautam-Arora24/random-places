@@ -24,7 +24,7 @@ getRandomPlace();
 
 ## Response
 
-#### The get random place function returns a JSON object that contains the name and country of the random place
+#### The get random places function returns a JSON object that contains the name and country of the random place
 
 ```json
 {
