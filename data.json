@@ -514,5 +514,25 @@
     { 
       "name": "Vienna",
       "country": "Austria"
+    },
+    { 
+      "name": "Bucharest",
+      "country": "Romania"
+    },
+    {
+      "name": "Zagreb",
+      "country": "Croatia"
+    },
+    {
+      "name": "Kiev",
+      "country": "Ukraine"
+    },
+    {
+      "name": "Ljubljana",
+      "country": "Slovenia"
+    },
+    {
+      "name": "Warsaw",
+      "country": "Poland"
     }
 ]
