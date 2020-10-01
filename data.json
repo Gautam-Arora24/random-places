@@ -538,5 +538,85 @@
     {
         "name": "New York",
         "country": "United States of America"
+    },
+    {
+        "name": "York",
+        "country": "England"
+    },
+    {
+        "name": "Aberdeen",
+        "country": "Scotland"
+    },
+    {
+        "name": "Belfast",
+        "country": "Northern Ireland"
+    },
+    {
+        "name": "Cardiff",
+        "country": "Wales"
+    },
+    {
+        "name": "Swansea",
+        "country": "Wales"
+    },
+    {
+        "name": "Aberystwyth",
+        "country": "Wales"
+    },
+    {
+        "name": "Manchester",
+        "country": "England"
+    },
+    {
+        "name": "Edinburgh",
+        "country": "Scotland"
+    },
+    {
+        "name": "Leeds",
+        "country": "England"
+    },
+    {
+        "name": "Sheffield",
+        "country": "England"
+    },
+    {
+        "name": "Gloucester",
+        "country": "England"
+    },
+    {
+        "name": "Warwick",
+        "country": "England"
+    },
+    {
+        "name": "Oxford",
+        "country": "England"
+    },
+    {
+        "name": "Brasília",
+        "country": "Brazil"
+    },
+    {
+        "name": "Doha",
+        "country": "Qatar"
+    },
+    {
+        "name": "Damascus",
+        "country": "Syria"
+    },
+    {
+        "name": "Caracas",
+        "country": "Venezuela"
+    },
+    {
+        "name": "Brussels",
+        "country": "Belgium"
+    },
+    {
+        "name": "Norwich",
+        "country": "England"
+    },
+    {
+        "name": "Cambridge",
+        "country": "England"
     }
 ]
