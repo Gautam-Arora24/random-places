@@ -534,5 +534,26 @@
     {
       "name": "Warsaw",
       "country": "Poland"
+    },
+    {
+      "name": "Pilani",
+      "country": "India"
+    },
+    {
+      "name": "Nagpur",
+      "country": "India"
+    },
+    {
+      "name": "Loharu",
+      "country": "India"
+    },
+    {
+      "name": "Melboune",
+      "country": "Australia"
+    },
+    {
+      "name": "Canberra",
+      "country": "Australia"
     }
+
 ]
