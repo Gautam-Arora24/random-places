@@ -502,5 +502,17 @@
     { 
       "name": "Zangilan",
       "country": "Azerbaijan"
+    },
+    { 
+      "name": "Bratislava",
+      "country": "Slovakia"
+    },
+    { 
+      "name": "Prague",
+      "country": "Czechia"
+    },
+    { 
+      "name": "Vienna",
+      "country": "Austria"
     }
 ]
