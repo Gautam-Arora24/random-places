@@ -26,4 +26,6 @@ console.log(getRandomPlace());
 
 > Please check issues **[here](https://github.com/Gautam-Arora24/random-places/issues)**!
 
+
+
 **[Add More Places](https://github.com/Gautam-Arora24/random-places/pulls/)** (Recommended for beginners. Just add name of the place and country in data.json file)
