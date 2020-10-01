@@ -536,24 +536,33 @@
       "country": "Poland"
     },
     {
-      "name": "Pilani",
-      "country": "India"
-    },
-    {
-      "name": "Nagpur",
-      "country": "India"
-    },
-    {
-      "name": "Loharu",
-      "country": "India"
-    },
-    {
       "name": "Melboune",
       "country": "Australia"
     },
     {
       "name": "Canberra",
       "country": "Australia"
+    },
+    {
+      "name": "Yerevan",
+      "country": "Armenia"
+    },
+    {
+      "name": "Quezon City",
+      "country": "Phillipines"
+    },
+    {
+      "name": "Sana'a",
+      "country": "Yemen"
+    },
+    {
+      "name": "Chittagong",
+      "country": "Bangladesh"
+    },
+    {
+      "name": "Kharkiv",
+      "country": "Ukraine"
     }
+
 
 ]
