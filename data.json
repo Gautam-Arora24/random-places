@@ -1,506 +1,669 @@
 [
     {
-        "name":"Delhi",
-        "country":"India"
+        "name": "Delhi",
+        "country": "India"
     },
     {
-        "name":"Dubai",
-        "country":"United Arab Emirates"
+        "name": "Noida",
+        "country": "India"
     },
     {
-        "name":"Hanoi",
-        "country":"Vietnam"
+        "name": "Greater Noida",
+        "country": "India"
     },
     {
-        "name":"Istanbul",
-        "country":"Turkey"
+        "name": "Chennai",
+        "country": "India"
     },
     {
-        "name":"Geneva",
-        "country":"Switzerland"
+        "name": "Dubai",
+        "country": "United Arab Emirates"
     },
     {
-        "name":"Kabul",
-        "country":"Afghanistan"
+        "name": "Hanoi",
+        "country": "Vietnam"
     },
     {
-        "name":"Tirana",
-        "country":"Albania"
+        "name": "Istanbul",
+        "country": "Turkey"
     },
     {
-        "name":"Algiers",
-        "country":"Algeria"
+        "name": "Geneva",
+        "country": "Switzerland"
     },
     {
-        "name":"Andorra",
-        "country":"Andorra la Vella"
+        "name": "Kabul",
+        "country": "Afghanistan"
     },
     {
-        "name":"Luanda",
-        "country":"Angola"
+        "name": "Tirana",
+        "country": "Albania"
     },
     {
-        "name":"Ottawa",
-        "country":"Canada"
+        "name": "Algiers",
+        "country": "Algeria"
     },
     {
-        "name":"Dhaka",
-        "country":"Bangladesh"
+        "name": "Andorra",
+        "country": "Andorra la Vella"
     },
     {
-        "name":"Bulgaria",
-        "country":"Sofia"
+        "name": "Luanda",
+        "country": "Angola"
     },
     {
-        "name":"Beijing",
-        "country":"China"
+        "name": "Ottawa",
+        "country": "Canada"
     },
     {
-        "name":"Chile",
-        "country":"Santiago"
+        "name": "Dhaka",
+        "country": "Bangladesh"
     },
     {
-        "name":"Colombia",
-        "country":"Bogota"
+        "name": "Bulgaria",
+        "country": "Sofia"
     },
     {
-        "name":" Comoros ",
-        "country":" Moroni "
+        "name": "Beijing",
+        "country": "China"
     },
     {
-        "name":"Denmark",
-        "country":"Copenhagen"
+        "name": "Chile",
+        "country": "Santiago"
     },
     {
-        "name":"Ecuador",
-        "country":"Quito"
+        "name": "Colombia",
+        "country": "Bogota"
     },
     {
-        "name":"Cairo",
-        "country":"Egypt"
+        "name": " Comoros ",
+        "country": " Moroni "
     },
     {
-        "name":"London",
-        "country":"England"
+        "name": "Denmark",
+        "country": "Copenhagen"
     },
     {
-        "name":"Ethiopia",
-        "country":"Addis Ababa"
+        "name": "Ecuador",
+        "country": "Quito"
     },
     {
-        "name":"Helsniki",
-        "country":"Finland"
+        "name": "Cairo",
+        "country": "Egypt"
     },
     {
-        "name":"Tbilisi",
-        "country":"Georgia"
+        "name": "London",
+        "country": "England"
     },
     {
-        "name":"Germany",
-        "country":"Berlin"
+        "name": "Ethiopia",
+        "country": "Addis Ababa"
     },
     {
-        "name":"Accra",
-        "country":"Ghana"
+        "name": "Helsniki",
+        "country": "Finland"
     },
     {
-        "name":"Greece",
-        "country":"Athens"
+        "name": "Tbilisi",
+        "country": "Georgia"
     },
     {
-        "name":"Budapest",
-        "country":"Hungary"
+        "name": "Germany",
+        "country": "Berlin"
     },
     {
-        "name":"Jakarta",
-        "country":"Indonesia"
+        "name": "Accra",
+        "country": "Ghana"
     },
     {
-        "name":"Tehran",
-        "country":"Iran"
+        "name": "Greece",
+        "country": "Athens"
     },
     {
-        "name":"Baghdad",
-        "country":"Iraq"
+        "name": "Budapest",
+        "country": "Hungary"
     },
     {
-        "name":"Ireland",
-        "country":"Dublin"
+        "name": "Jakarta",
+        "country": "Indonesia"
     },
     {
-        "name":"Andhra Pradesh",
-        "country":"India"
+        "name": "Tehran",
+        "country": "Iran"
     },
     {
-        "name":"Assam",
-        "country":"India"
+        "name": "Baghdad",
+        "country": "Iraq"
     },
     {
-        "name":"Arunachal Pradesh",
-        "country":"India"
+        "name": "Ireland",
+        "country": "Dublin"
     },
     {
-        "name":"Bihar",
-        "country":"India"
+        "name": "Andhra Pradesh",
+        "country": "India"
     },
     {
-        "name":"Goa",
-        "country":"India"
+        "name": "Assam",
+        "country": "India"
     },
     {
-        "name":"Gujarat",
-        "country":"India"
+        "name": "Arunachal Pradesh",
+        "country": "India"
     },
     {
-        "name":"Jammu and Kashmir",
-        "country":"India"
+        "name": "Bihar",
+        "country": "India"
     },
     {
-        "name":"Jharkhand",
-        "country":"India"
+        "name": "Goa",
+        "country": "India"
     },
     {
-        "name":"West Bengal",
-        "country":"India"
+        "name": "Gujarat",
+        "country": "India"
     },
     {
-        "name":"Karnataka",
-        "country":"India"
+        "name": "Jammu and Kashmir",
+        "country": "India"
     },
     {
-        "name":"Kerala",
-        "country":"India"
+        "name": "Jharkhand",
+        "country": "India"
     },
     {
-        "name":"Madhya Pradesh",
-        "country":"India"
+        "name": "West Bengal",
+        "country": "India"
     },
     {
-        "name":"Maharashtra",
-        "country":"India"
+        "name": "Karnataka",
+        "country": "India"
     },
     {
-        "name":"Manipur",
-        "country":"India"
+        "name": "Kerala",
+        "country": "India"
     },
     {
-        "name":"Meghalaya",
-        "country":"India"
+        "name": "Madhya Pradesh",
+        "country": "India"
     },
     {
-        "name":"Mizoram",
-        "country":"India"
+        "name": "Maharashtra",
+        "country": "India"
     },
     {
-        "name":"Nagaland",
-        "country":"India"
+        "name": "Manipur",
+        "country": "India"
     },
     {
-        "name":"Orissa",
-        "country":"India"
+        "name": "Meghalaya",
+        "country": "India"
     },
     {
-        "name":"Punjab",
-        "country":"India"
+        "name": "Mizoram",
+        "country": "India"
     },
     {
-        "name":"Rajasthan",
-        "country":"India"
+        "name": "Nagaland",
+        "country": "India"
     },
     {
-        "name":"Sikkim",
-        "country":"India"
+        "name": "Orissa",
+        "country": "India"
     },
     {
-        "name":"Tamil Nadu",
-        "country":"India"
+        "name": "Punjab",
+        "country": "India"
     },
     {
-        "name":"Tripura",
-        "country":"India"
+        "name": "Rajasthan",
+        "country": "India"
     },
     {
-        "name":"Uttaranchal",
-        "country":"India"
+        "name": "Sikkim",
+        "country": "India"
     },
     {
-        "name":"Uttar Pradesh",
-        "country":"India"
+        "name": "Tamil Nadu",
+        "country": "India"
     },
     {
-        "name":"Haryana",
-        "country":"India"
+        "name": "Tripura",
+        "country": "India"
     },
     {
-        "name":"Himachal Pradesh",
-        "country":"India"
+        "name": "Uttaranchal",
+        "country": "India"
     },
     {
-        "name":"Chhattisgarh",
-        "country":"India"
+        "name": "Uttar Pradesh",
+        "country": "India"
     },
     {
-        "name":"Bangalore",
-        "country":"India"
+        "name": "Haryana",
+        "country": "India"
     },
     {
-        "name":"Hyderabad",
-        "country":"India"
+        "name": "Himachal Pradesh",
+        "country": "India"
     },
     {
-        "name":"Chennai",
-        "country":"India"
+        "name": "Chhattisgarh",
+        "country": "India"
     },
     {
-        "name":"Mumbai",
-        "country":"India"
+        "name": "Bangalore",
+        "country": "India"
     },
     {
-      "name": "Agdash",
-      "country": "Azerbaijan"
+        "name": "Hyderabad",
+        "country": "India"
     },
-    { 
-      "name": "Agjabadi",
-      "country": "Azerbaijan"
+    {
+        "name": "Chennai",
+        "country": "India"
+    },
+    {
+        "name": "Mumbai",
+        "country": "India"
+    },
+    {
+        "name": "Agdash",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Agjabadi",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Agstafa",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Agsu",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Astara",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Babek",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Baku",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Belokany",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Barda",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Beylagan",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Bilasuvar",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Daşkəsən",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Davachi",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Füzuli",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Gədəbəy",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Ganja",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Goranboy",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Goychay",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Goygol",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Hajigabul",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Imishli",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "İsmayıllı",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Jabrayil",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Julfa",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Kalbajar",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Khachmaz",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Khojavend",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Khyrdalan",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Kurdamir",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Lankaran",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Lerik",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Masally",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Mingacevir",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Nakhichevan",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Naftalan",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Neftçala",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Oghuz",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Ordubad",
+        "country": "Azerbaijan"
+    },
+    {
+        "name": "Qabala",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Agstafa",
-      "country": "Azerbaijan"
+    {
+        "name": "Qakh",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Agsu",
-      "country": "Azerbaijan"
+    {
+        "name": "Qazakh",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Astara",
-      "country": "Azerbaijan"
+    {
+        "name": "Quba",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Babek",
-      "country": "Azerbaijan"
+    {
+        "name": "Qubadli",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Baku",
-      "country": "Azerbaijan"
+    {
+        "name": "Qusar",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Belokany",
-      "country": "Azerbaijan"
+    {
+        "name": "Saatlı",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Barda",
-      "country": "Azerbaijan"
+    {
+        "name": "Sabirabad",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Beylagan",
-      "country": "Azerbaijan"
+    {
+        "name": "Shakhbuz",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Bilasuvar",
-      "country": "Azerbaijan"
+    {
+        "name": "Shaki",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Daşkəsən",
-      "country": "Azerbaijan"
+    {
+        "name": "Şamaxı",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Davachi",
-      "country": "Azerbaijan"
+    {
+        "name": "Şəmkir",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Füzuli",
-      "country": "Azerbaijan"
+    {
+        "name": "Şərur",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Gədəbəy",
-      "country": "Azerbaijan"
+    {
+        "name": "Shirvan",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Ganja",
-      "country": "Azerbaijan"
+    {
+        "name": "Siazan",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Goranboy",
-      "country": "Azerbaijan"
+    {
+        "name": "Sumqayit",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Goychay",
-      "country": "Azerbaijan"
+    {
+        "name": "Tərtər",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Goygol",
-      "country": "Azerbaijan"
+    {
+        "name": "Tovuz",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Hajigabul",
-      "country": "Azerbaijan"
+    {
+        "name": "Ucar",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Imishli",
-      "country": "Azerbaijan"
+    {
+        "name": "Yardımlı",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "İsmayıllı",
-      "country": "Azerbaijan"
+    {
+        "name": "Yevlakh",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Jabrayil",
-      "country": "Azerbaijan"
+    {
+        "name": "Zaqatala",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Julfa",
-      "country": "Azerbaijan"
+    {
+        "name": "Zardab",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Kalbajar",
-      "country": "Azerbaijan"
+    {
+        "name": "Zangilan",
+        "country": "Azerbaijan"
     },
-    { 
-      "name": "Khachmaz",
-      "country": "Azerbaijan"
+    {
+        "name": "Bratislava",
+        "country": "Slovakia"
     },
-    { 
-      "name": "Khojavend",
-      "country": "Azerbaijan"
+    {
+        "name": "Prague",
+        "country": "Czechia"
     },
-    { 
-      "name": "Khyrdalan",
-      "country": "Azerbaijan"
+    {
+        "name": "Vienna",
+        "country": "Austria"
     },
-    { 
-      "name": "Kurdamir",
-      "country": "Azerbaijan"
+    {
+        "name": "Bucharest",
+        "country": "Romania"
     },
-    { 
-      "name": "Lankaran",
-      "country": "Azerbaijan"
+    {
+        "name": "Zagreb",
+        "country": "Croatia"
     },
-    { 
-      "name": "Lerik",
-      "country": "Azerbaijan"
+    {
+        "name": "Kiev",
+        "country": "Ukraine"
     },
-    { 
-      "name": "Masally",
-      "country": "Azerbaijan"
+    {
+        "name": "Ljubljana",
+        "country": "Slovenia"
     },
-    { 
-      "name": "Mingacevir",
-      "country": "Azerbaijan"
+    {
+        "name": "Warsaw",
+        "country": "Poland"
     },
-    { 
-      "name": "Nakhichevan",
-      "country": "Azerbaijan"
+    {
+        "name": "New York",
+        "country": "United States of America"
     },
-    { 
-      "name": "Naftalan",
-      "country": "Azerbaijan"
+    {
+        "name": "York",
+        "country": "England"
     },
-    { 
-      "name": "Neftçala",
-      "country": "Azerbaijan"
+    {
+        "name": "Aberdeen",
+        "country": "Scotland"
     },
-    { 
-      "name": "Oghuz",
-      "country": "Azerbaijan"
+    {
+        "name": "Belfast",
+        "country": "Northern Ireland"
     },
-    { 
-      "name": "Ordubad",
-      "country": "Azerbaijan"
+    {
+        "name": "Cardiff",
+        "country": "Wales"
     },
-    { 
-      "name": "Qabala",
-      "country": "Azerbaijan"
+    {
+        "name": "Swansea",
+        "country": "Wales"
     },
-    { 
-      "name": "Qakh",
-      "country": "Azerbaijan"
+    {
+        "name": "Aberystwyth",
+        "country": "Wales"
     },
-    { 
-      "name": "Qazakh",
-      "country": "Azerbaijan"
+    {
+        "name": "Manchester",
+        "country": "England"
     },
-    { 
-      "name": "Quba",
-      "country": "Azerbaijan"
+    {
+        "name": "Edinburgh",
+        "country": "Scotland"
     },
-    { 
-      "name": "Qubadli",
-      "country": "Azerbaijan"
+    {
+        "name": "Leeds",
+        "country": "England"
     },
-    { 
-      "name": "Qusar",
-      "country": "Azerbaijan"
+    {
+        "name": "Sheffield",
+        "country": "England"
     },
-    { 
-      "name": "Saatlı",
-      "country": "Azerbaijan"
+    {
+        "name": "Gloucester",
+        "country": "England"
     },
-    { 
-      "name": "Sabirabad",
-      "country": "Azerbaijan"
+    {
+        "name": "Warwick",
+        "country": "England"
     },
-    { 
-      "name": "Shakhbuz",
-      "country": "Azerbaijan"
+    {
+        "name": "Oxford",
+        "country": "England"
     },
-    { 
-      "name": "Shaki",
-      "country": "Azerbaijan"
+    {
+        "name": "Brasília",
+        "country": "Brazil"
     },
-    { 
-      "name": "Şamaxı",
-      "country": "Azerbaijan"
+    {
+        "name": "Doha",
+        "country": "Qatar"
     },
-    { 
-      "name": "Şəmkir",
-      "country": "Azerbaijan"
+    {
+        "name": "Damascus",
+        "country": "Syria"
     },
-    { 
-      "name": "Şərur",
-      "country": "Azerbaijan"
+    {
+        "name": "Caracas",
+        "country": "Venezuela"
     },
-    { 
-      "name": "Shirvan",
-      "country": "Azerbaijan"
+    {
+        "name": "Brussels",
+        "country": "Belgium"
     },
-    { 
-      "name": "Siazan",
-      "country": "Azerbaijan"
+    {
+        "name": "Norwich",
+        "country": "England"
     },
-    { 
-      "name": "Sumqayit",
-      "country": "Azerbaijan"
+    {
+
+      "name": "Warsaw",
+      "country": "Poland"
     },
-    { 
-      "name": "Tərtər",
-      "country": "Azerbaijan"
+    {
+      "name": "Melboune",
+      "country": "Australia"
     },
-    { 
-      "name": "Tovuz",
-      "country": "Azerbaijan"
+    {
+      "name": "Canberra",
+      "country": "Australia"
     },
-    { 
-      "name": "Ucar",
-      "country": "Azerbaijan"
+    {
+      "name": "Yerevan",
+      "country": "Armenia"
     },
-    { 
-      "name": "Yardımlı",
-      "country": "Azerbaijan"
+    {
+      "name": "Quezon City",
+      "country": "Phillipines"
     },
-    { 
-      "name": "Yevlakh",
-      "country": "Azerbaijan"
+    {
+      "name": "Sana'a",
+      "country": "Yemen"
     },
-    { 
-      "name": "Zaqatala",
-      "country": "Azerbaijan"
+    {
+      "name": "Chittagong",
+      "country": "Bangladesh"
     },
-    { 
-      "name": "Zardab",
-      "country": "Azerbaijan"
+    {
+      "name": "Kharkiv",
+      "country": "Ukraine"
     },
-    { 
-      "name": "Zangilan",
-      "country": "Azerbaijan"
+    {
+        "name": "Cambridge",
+        "country": "England"
     }
+
+
 ]
