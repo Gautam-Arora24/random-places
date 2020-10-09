@@ -12,6 +12,18 @@
         "country": "India"
     },
     {
+        "name": "Agra",
+        "country": "India"
+    },
+    {
+        "name": "Mumbai",
+        "country": "India"
+    },
+    {
+        "name": "Bangalore",
+        "country": "India"
+    },
+    {
         "name": "Chennai",
         "country": "India"
     },
@@ -24,6 +36,14 @@
         "country": "Vietnam"
     },
     {
+        "name": "Ho Chi Minh City ",
+        "country": "Vietnam"
+    },
+    {
+        "name": "Da Nang",
+        "country": "Vietnam"
+    },
+    {
         "name": "Istanbul",
         "country": "Turkey"
     },
@@ -33,6 +53,10 @@
     },
     {
         "name": "Kabul",
+        "country": "Afghanistan"
+    },
+    {
+        "name": "Herat",
         "country": "Afghanistan"
     },
     {
@@ -56,6 +80,10 @@
         "country": "Canada"
     },
     {
+        "name": "Calgary",
+        "country": "Canada"
+    },
+    {
         "name": "Dhaka",
         "country": "Bangladesh"
     },
@@ -65,6 +93,10 @@
     },
     {
         "name": "Beijing",
+        "country": "China"
+    },
+    {
+        "name": "Hong Kong",
         "country": "China"
     },
     {
@@ -92,6 +124,10 @@
         "country": "Egypt"
     },
     {
+        "name": "Alexandria",
+        "country": "Egypt"
+    },
+    {
         "name": "London",
         "country": "England"
     },
@@ -112,6 +148,10 @@
         "country": "Berlin"
     },
     {
+        "name": "Hamburg",
+        "country": "Berlin"
+    },
+    {
         "name": "Accra",
         "country": "Ghana"
     },
@@ -129,6 +169,10 @@
     },
     {
         "name": "Tehran",
+        "country": "Iran"
+    },
+    {
+        "name": "Karaj",
         "country": "Iran"
     },
     {
