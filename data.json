@@ -808,6 +808,40 @@
         "name": "Lisbon",
         "country": "Portugal"
     },
-
-
+    {
+        "name": "São Paulo",
+        "country": "Brazil"
+    },
+    {
+        "name": "Recife",
+        "country": "Brazil"
+    },
+    {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+    },
+     {
+        "name": "Manaus",
+        "country": "Brazil"
+    },
+    {
+        "name": "Minas Gerais",
+        "country": "Brazil"
+    },
+        {
+        "name": "Paraná",
+        "country": "Brazil"
+    },
+    {
+        "name": "Rio Grande do Sul",
+        "country": "Brazil"
+    },
+     {
+        "name": "Santa Catarina",
+        "country": "Brazil"
+    },
+    {
+        "name": "Bahia",
+        "country": "Brazil"
+    },
 ]
