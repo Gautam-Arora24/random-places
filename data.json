@@ -88,8 +88,8 @@
         "country": "Bangladesh"
     },
     {
-        "name": "Bulgaria",
-        "country": "Sofia"
+        "name": "Sofia",
+        "country": "Bulgaria"
     },
     {
         "name": "Beijing",
@@ -100,8 +100,8 @@
         "country": "China"
     },
     {
-        "name": "Chile",
-        "country": "Santiago"
+        "name": "Santiago",
+        "country": "Chile"
     },
     {
         "name": "Colombia",
@@ -112,8 +112,8 @@
         "country": " Moroni "
     },
     {
-        "name": "Denmark",
-        "country": "Copenhagen"
+        "name": "Copenhagen",
+        "country": "Denmark"
     },
     {
         "name": "Ecuador",
@@ -136,7 +136,7 @@
         "country": "Addis Ababa"
     },
     {
-        "name": "Helsniki",
+        "name": "Helsinki",
         "country": "Finland"
     },
     {
@@ -144,20 +144,20 @@
         "country": "Georgia"
     },
     {
-        "name": "Germany",
-        "country": "Berlin"
+        "name": "Berlin",
+        "country": "Germany"
     },
     {
         "name": "Hamburg",
-        "country": "Berlin"
+        "country": "Germany"
     },
     {
         "name": "Accra",
         "country": "Ghana"
     },
     {
-        "name": "Greece",
-        "country": "Athens"
+        "name": "Athens",
+        "country": "Greece"
     },
     {
         "name": "Budapest",
@@ -707,7 +707,317 @@
     {
         "name": "Cambridge",
         "country": "England"
+    },
+    {
+        "name": "Bangkok",
+        "country": "Thailand"
+    },
+    {
+        "name": "Abdulino",
+        "country": "Russia"
+    },
+    {
+        "name": "Bisha",
+        "country": "Saudi Arabia"
+    },
+    {
+        "name": "Thimpu",
+        "country": "Bhutan"
+    },
+    {
+        "name": "Amora",
+        "country": "Portugal"
+    },
+    {
+        "name": "Norton",
+        "country": "Zimbawe"
+    },
+    {
+        "name": "Gulu",
+        "country": "Uganda"
+    },
+    {
+        "name": "Ankara",
+        "country": "Turkey"
+    },
+    {
+        "name": "Moshi",
+        "country": "Tanzania"
+    },
+    {
+        "name": "Bern",
+        "country": "Switzerland"
+    },
+    {
+        "name": "Lalitpur",
+        "country": "Nepal"
+    },
+    {
+        "name": "Almelo",
+        "country": "Netherlands"
+    },
+    {
+        "name": "Thessaloniki",
+        "country": "Greece"
+    },
+    {
+        "name": "Skopje",
+        "country": "North Macedonia"
+    },
+    {
+        "name": "Belgrade",
+        "country": "Serbia"
+    },
+    {
+        "name": "Sarajevo",
+        "country": "Bosnia and Herzegovina"
+    },
+    {
+        "name": "Cluj-Napoca",
+        "country": "Romania"
+    },
+    {
+        "name": "Kyiv",
+        "country": "Ukraine"
+    },
+    {
+        "name": "Minsk",
+        "country": "Belarus"
+    },
+    {
+        "name": "Kaunas",
+        "country": "Lithuania"
+    },
+    {
+        "name": "Riga",
+        "country": "Latvia"
+    },
+    {
+        "name": "Tallin",
+        "country": "Estonia"
+    },
+    {
+        "name": "Kraków",
+        "country": "Poland"
+    },
+    {
+        "name": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "name": "Paris",
+        "country": "France"
+    },
+    {
+        "name": "Zürich",
+        "country": "Switzerland"
+    },
+    {
+        "name": "Bologna",
+        "country": "Italy"
+    },
+    {
+        "name": "Rome",
+        "country": "Italy"
+    },
+    {
+        "name": "Milan",
+        "country": "Italy"
+    },
+    {
+        "name": "Venice",
+        "country": "Italy"
+    },
+    {
+        "name": "Florence",
+        "country": "Italy"
+    },
+    {
+        "name": "Madrid",
+        "country": "Spain"
+    },
+    {
+        "name": "Zaragoza",
+        "country": "Spain"
+    },
+    {
+        "name": "Barcelona",
+        "country": "Spain"
+    },
+    {
+        "name": "Valencia",
+        "country": "Spain"
+    },
+    {
+        "name": "Málaga",
+        "country": "Spain"
+    },
+    {
+        "name": "Lisbon",
+        "country": "Portugal"
+    },
+    {
+        "name": "Moscow",
+        "country": "Russia"
+    },
+    {
+        "name": "Saint Petersburg",
+        "country": "Russia"
+    },
+    {
+        "name": "Veliky Novgorod",
+        "country": "Russia"
+    },
+    {
+        "name": "Sochi",
+        "country": "Russia"
+    },
+    {
+        "name": "Kazan",
+        "country": "Russia"
+    },
+    {
+        "name": "Yekaterinburg",
+        "country": "Russia"
+    },
+    {
+        "name": "Volgograd",
+        "country": "Russia"
+    },
+    {
+        "name": "Vladivostok",
+        "country": "Russia"
+    },
+    {
+        "name": "Nizhny Novgorod",
+        "country": "Russia"
+    },
+    {
+        "name": "Novosibirsk",
+        "country": "Russia"
+    },
+    {
+        "name": "Kaliningrad",
+        "country": "Russia"
+    },
+    {
+        "name": "Omsk",
+        "country": "Russia"
+    },
+    {
+        "name": "Rostov-on-Don",
+        "country": "Russia"
+    },
+    {
+        "name": "Murmanks",
+        "country": "Russia"
+    },
+    {
+        "name": "Samara",
+        "country": "Russia"
+    },
+    {
+        "name": "Magadan",
+        "country": "Russia"
+    },
+    {
+        "name": "Jaipur",
+        "country": "India"
+    },
+    {
+        "name": "Waikato",
+        "country": "New Zealand"
+    },
+    {
+        "name": "Havana",
+        "country": "Cuba"
+    },
+    {
+        "name": "Tokyo",
+        "country": "Japan"
+    },
+    {
+        "name": "Vancouver",
+        "country": "Canada"
+    },
+    {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+    },
+    {
+        "name": "Matterhorn",
+        "country": "Switzerland"
+    },
+    {
+        "name": "Panaji",
+        "country": "India"
+    },
+    {
+        "name": "Mysore",
+        "country": "India"
+    },
+    {
+        "name": "Jaisalmer",
+        "country": "India"
+    },
+    {
+        "name": "Udaipur",
+        "country": "India"
+    },
+    {
+        "name": "Varanasi",
+        "country": "India"
+    },
+    {
+        "name": "Machu Picchu",
+        "country": "Peru"
+    },
+    {
+        "name": "Colosseum",
+        "country": "Rome"
+    },
+    {
+        "name": "Surat",
+        "country": "India"
+    },
+    {
+        "name": "Surabaya",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Bandung",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Bali",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Solo",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Lampung",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Semarang",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Malang",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Medan",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Manado",
+        "country": "Indonesia"
     }
-
-
 ]
