@@ -808,6 +808,68 @@
         "name": "Lisbon",
         "country": "Portugal"
     },
-
-
+    {
+        "name": "Moscow",
+        "country": "Russia"
+    },
+    {
+        "name": "Saint Petersburg",
+        "country": "Russia"
+    },
+    {
+        "name": "Veliky Novgorod",
+        "country": "Russia"
+    },
+    {
+        "name": "Sochi",
+        "country": "Russia"
+    },
+    {
+        "name": "Kazan",
+        "country": "Russia"
+    },
+    {
+        "name": "Yekaterinburg",
+        "country": "Russia"
+    },
+    {
+        "name": "Volgograd",
+        "country": "Russia"
+    },
+    {
+        "name": "Vladivostok",
+        "country": "Russia"
+    },
+    {
+        "name": "Nizhny Novgorod",
+        "country": "Russia"
+    },
+    {
+        "name": "Novosibirsk",
+        "country": "Russia"
+    },
+    {
+        "name": "Kaliningrad",
+        "country": "Russia"
+    },
+    {
+        "name": "Omsk",
+        "country": "Russia"
+    },
+    {
+        "name": "Rostov-on-Don",
+        "country": "Russia"
+    },
+    {
+        "name": "Murmanks",
+        "country": "Russia"
+    },
+    {
+        "name": "Samara",
+        "country": "Russia"
+    },
+    {
+        "name": "Magadan",
+        "country": "Russia"
+    },
 ]
