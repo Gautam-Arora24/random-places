@@ -855,5 +855,66 @@
     {
         "name": "Lisbon",
         "country": "Portugal"
-    }
+    },
+    {
+        "name": "Jaipur",
+        "country": "India"
+    },
+    {
+        "name": "Waikato",
+        "country": "New Zealand"
+    },
+    {
+        "name": "Havana",
+        "country": "Cuba"
+    },
+    {
+        "name": "Tokyo",
+        "country": "Japan"
+    },
+    {
+        "name": "Vancouver",
+        "country": "Canada"
+    },
+    {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+    },
+    {
+        "name": "Matterhorn",
+        "country": "Switzerland"
+    },
+    {
+        "name": "Panaji",
+        "country": "India"
+    },
+    {
+        "name": "Mysore",
+        "country": "India"
+    },
+    {
+        "name": "Jaisalmer",
+        "country": "India"
+    },
+    {
+        "name": "Udaipur",
+        "country": "India"
+    },
+    {
+        "name": "Varanasi",
+        "country": "India"
+    },
+    {
+        "name": "Machu Picchu",
+        "country": "Peru"
+    },
+    {
+        "name": "Colosseum",
+        "country": "Rome"
+    },
+    {
+        "name": "Surat",
+        "country": "India"
+    },
+    
 ]
