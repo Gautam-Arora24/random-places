@@ -916,5 +916,44 @@
         "name": "Surat",
         "country": "India"
     },
-    
+    {
+        "name": "Sao Paulo",
+        "country": "Brazil"
+    },
+    {
+        "name": "Natal",
+        "county": "Brazil"
+    },
+    {
+        "name": "Rio do Sul",
+        "country": "Brazil"
+    },
+    {
+        "name": "Santa Catarina",
+        "country": "Brazil"
+    },
+    {
+        "name": "Palmas",
+        "country": "Brazil"
+    },
+    {
+        "name": "Toronto",
+        "country": "Canada"
+    },
+    {
+        "name": "Marseille",
+        "country": "France"
+    },
+    {
+        "name": "Paraná",
+        "country": "Brazil"
+    },
+    {
+        "name": "Porto Seguro",
+        "country": "Brazil"
+    },
+    {
+        "name": "Hamilton",
+        "country": "Canada"
+    }
 ]
