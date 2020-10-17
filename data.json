@@ -980,4 +980,44 @@
         "name": "Surat",
         "country": "India"
     },
+    {
+        "name": "Surabaya",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Bandung",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Bali",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Solo",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Lampung",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Semarang",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Malang",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Medan",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Manado",
+        "country": "Indonesia"
+    }
 ]
