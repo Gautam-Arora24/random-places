@@ -857,6 +857,70 @@
         "country": "Portugal"
     },
     {
+        "name": "Moscow",
+        "country": "Russia"
+    },
+    {
+        "name": "Saint Petersburg",
+        "country": "Russia"
+    },
+    {
+        "name": "Veliky Novgorod",
+        "country": "Russia"
+    },
+    {
+        "name": "Sochi",
+        "country": "Russia"
+    },
+    {
+        "name": "Kazan",
+        "country": "Russia"
+    },
+    {
+        "name": "Yekaterinburg",
+        "country": "Russia"
+    },
+    {
+        "name": "Volgograd",
+        "country": "Russia"
+    },
+    {
+        "name": "Vladivostok",
+        "country": "Russia"
+    },
+    {
+        "name": "Nizhny Novgorod",
+        "country": "Russia"
+    },
+    {
+        "name": "Novosibirsk",
+        "country": "Russia"
+    },
+    {
+        "name": "Kaliningrad",
+        "country": "Russia"
+    },
+    {
+        "name": "Omsk",
+        "country": "Russia"
+    },
+    {
+        "name": "Rostov-on-Don",
+        "country": "Russia"
+    },
+    {
+        "name": "Murmanks",
+        "country": "Russia"
+    },
+    {
+        "name": "Samara",
+        "country": "Russia"
+    },
+    {
+        "name": "Magadan",
+        "country": "Russia"
+    },
+    {
         "name": "Jaipur",
         "country": "India"
     },
@@ -911,6 +975,46 @@
     {
         "name": "Surat",
         "country": "India"
+    },
+    {
+        "name": "Surabaya",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Bandung",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Bali",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Solo",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Lampung",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Semarang",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Malang",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Medan",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Manado",
+        "country": "Indonesia"
     },
     {
         "name": "São Paulo",
