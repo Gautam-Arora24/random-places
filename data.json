@@ -709,6 +709,54 @@
         "country": "England"
     },
     {
+        "name": "Bangkok",
+        "country": "Thailand"
+    },
+    {
+        "name": "Abdulino",
+        "country": "Russia"
+    },
+    {
+        "name": "Bisha",
+        "country": "Saudi Arabia"
+    },
+    {
+        "name": "Thimpu",
+        "country": "Bhutan"
+    },
+    {
+        "name": "Amora",
+        "country": "Portugal"
+    },
+    {
+        "name": "Norton",
+        "country": "Zimbawe"
+    },
+    {
+        "name": "Gulu",
+        "country": "Uganda"
+    },
+    {
+        "name": "Ankara",
+        "country": "Turkey"
+    },
+    {
+        "name": "Moshi",
+        "country": "Tanzania"
+    },
+    {
+        "name": "Bern",
+        "country": "Switzerland"
+    },
+    {
+        "name": "Lalitpur",
+        "country": "Nepal"
+    },
+    {
+        "name": "Almelo",
+        "country": "Netherlands"
+    },
+    {
         "name": "Thessaloniki",
         "country": "Greece"
     },
@@ -869,5 +917,4 @@
         "country": "India"
     },
     
-
 ]
