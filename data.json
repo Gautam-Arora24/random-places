@@ -857,6 +857,70 @@
         "country": "Portugal"
     },
     {
+        "name": "Moscow",
+        "country": "Russia"
+    },
+    {
+        "name": "Saint Petersburg",
+        "country": "Russia"
+    },
+    {
+        "name": "Veliky Novgorod",
+        "country": "Russia"
+    },
+    {
+        "name": "Sochi",
+        "country": "Russia"
+    },
+    {
+        "name": "Kazan",
+        "country": "Russia"
+    },
+    {
+        "name": "Yekaterinburg",
+        "country": "Russia"
+    },
+    {
+        "name": "Volgograd",
+        "country": "Russia"
+    },
+    {
+        "name": "Vladivostok",
+        "country": "Russia"
+    },
+    {
+        "name": "Nizhny Novgorod",
+        "country": "Russia"
+    },
+    {
+        "name": "Novosibirsk",
+        "country": "Russia"
+    },
+    {
+        "name": "Kaliningrad",
+        "country": "Russia"
+    },
+    {
+        "name": "Omsk",
+        "country": "Russia"
+    },
+    {
+        "name": "Rostov-on-Don",
+        "country": "Russia"
+    },
+    {
+        "name": "Murmanks",
+        "country": "Russia"
+    },
+    {
+        "name": "Samara",
+        "country": "Russia"
+    },
+    {
+        "name": "Magadan",
+        "country": "Russia"
+    },
+    {
         "name": "Jaipur",
         "country": "India"
     },
@@ -875,10 +939,6 @@
     {
         "name": "Vancouver",
         "country": "Canada"
-    },
-    {
-        "name": "Rio de Janeiro",
-        "country": "Brazil"
     },
     {
         "name": "Matterhorn",
@@ -945,6 +1005,66 @@
         "country": "France"
     },
     {
+        "name": "Surabaya",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Bandung",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Yogyakarta",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Bali",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Solo",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Lampung",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Semarang",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Malang",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Medan",
+        "country": "Indonesia"
+    },
+    {
+        "name": "Manado",
+        "country": "Indonesia"
+    },
+    {
+        "name": "São Paulo",
+        "country": "Brazil"
+    },
+    {
+        "name": "Recife",
+        "country": "Brazil"
+    },
+    {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+    },
+    {
+        "name": "Manaus",
+        "country": "Brazil"
+    },
+    {
+        "name": "Minas Gerais",
+        "country": "Brazil"
+    },
+    {
         "name": "Paraná",
         "country": "Brazil"
     },
@@ -955,5 +1075,21 @@
     {
         "name": "Hamilton",
         "country": "Canada"
+    },
+    {
+        "name": "Rio Grande do Sul",
+        "country": "Brazil"
+    },
+    {
+        "name": "Santa Catarina",
+        "country": "Brazil"
+    },
+    {
+        "name": "Bahia",
+        "country": "Brazil"
+    },
+    {
+        "name": "Ceará",
+        "country": "Brazil"
     }
 ]
