@@ -977,6 +977,34 @@
         "country": "India"
     },
     {
+        "name": "Sao Paulo",
+        "country": "Brazil"
+    },
+    {
+        "name": "Natal",
+        "county": "Brazil"
+    },
+    {
+        "name": "Rio do Sul",
+        "country": "Brazil"
+    },
+    {
+        "name": "Santa Catarina",
+        "country": "Brazil"
+    },
+    {
+        "name": "Palmas",
+        "country": "Brazil"
+    },
+    {
+        "name": "Toronto",
+        "country": "Canada"
+    },
+    {
+        "name": "Marseille",
+        "country": "France"
+    },
+    {
         "name": "Surabaya",
         "country": "Indonesia"
     },
@@ -1028,7 +1056,7 @@
         "name": "Rio de Janeiro",
         "country": "Brazil"
     },
-       {
+    {
         "name": "Manaus",
         "country": "Brazil"
     },
@@ -1036,15 +1064,23 @@
         "name": "Minas Gerais",
         "country": "Brazil"
     },
-        {
+    {
         "name": "Paraná",
         "country": "Brazil"
+    },
+    {
+        "name": "Porto Seguro",
+        "country": "Brazil"
+    },
+    {
+        "name": "Hamilton",
+        "country": "Canada"
     },
     {
         "name": "Rio Grande do Sul",
         "country": "Brazil"
     },
-     {
+    {
         "name": "Santa Catarina",
         "country": "Brazil"
     },
