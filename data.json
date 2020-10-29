@@ -1091,5 +1091,81 @@
     {
         "name": "Ceará",
         "country": "Brazil"
+    },
+    {
+        "name": "Acre",
+        "country": "Brazil"
+    },
+    {
+        "name": "Alagoas",
+        "country": "Brazil"
+    },
+    {
+        "name": "Amapá",
+        "country": "Brazil"
+    },
+    {
+        "name": "Amazonas",
+        "country": "Brazil"
+    },
+    {
+        "name": "Espírito Santo",
+        "country": "Brazil"
+    },
+    {
+        "name": "Goiás",
+        "country": "Brazil"
+    },
+    {
+        "name": "Maranhão",
+        "country": "Brazil"
+    },
+    {
+        "name": "Mato Grosso",
+        "country": "Brazil"
+    },
+    {
+        "name": "Mato Grosso do Sul",
+        "country": "Brazil"
+    },
+    {
+        "name": "Pará",
+        "country": "Brazil"
+    },
+    {
+        "name": "Paraíba",
+        "country": "Brazil"
+    },
+    {
+        "name": "Pernambuco",
+        "country": "Brazil"
+    },
+    {
+        "name": "Piauí",
+        "country": "Brazil"
+    },
+    {
+        "name": "Rio Grande do Norte",
+        "country": "Brazil"
+    },
+    {
+        "name": "Rondônia",
+        "country": "Brazil"
+    },
+    {
+        "name": "Roraima",
+        "country": "Brazil"
+    },
+    {
+        "name": "Sergipe",
+        "country": "Brazil"
+    },
+    {
+        "name": "Tocantins",
+        "country": "Brazil"
+    },
+    {
+        "name": "Distrito Federal",
+        "country": "Brazil"
     }
 ]
