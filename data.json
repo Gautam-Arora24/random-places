@@ -1167,5 +1167,53 @@
     {
         "name": "Distrito Federal",
         "country": "Brazil"
+    },
+    {
+        "name": "Hyderabad",
+        "country": "India"
+    },
+    {
+        "name": "Vishakapatnam",
+        "country": "India"
+    },
+    {
+        "name": "Nellore",
+        "country": "India"
+    },
+    {
+        "name": "Amaravati",
+        "country": "India"
+    },
+    {
+        "name": "Indore",
+        "country": "India"
+    },
+    {
+        "name": "Agra",
+        "country": "India"
+    },
+    {
+        "name": "Mysore",
+        "country": "India"
+    },
+    {
+        "name": "Ahmedabad",
+        "country": "India"
+    },
+    {
+        "name": "Agartala",
+        "country": "India"
+    },
+    {
+        "name": "Assam",
+        "country": "India"
+    },
+    {
+        "name": "Mizoram",
+        "country": "India"
+    },
+    {
+        "name": "Meghalaya",
+        "country": "India"
     }
 ]
