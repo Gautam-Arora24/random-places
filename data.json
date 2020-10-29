@@ -1215,5 +1215,47 @@
     {
         "name": "Meghalaya",
         "country": "India"
+    },
+     {
+        "name": "Novosibirsk",
+        "country": "Russia"
+    },
+     {
+        "name": "Yekaterinburg",
+        "country": "Russia"
+    },
+     {
+        "name": "Kazan",
+        "country": "Russia"
+    },
+     {
+        "name": "Omsk",
+        "country": "Russia"
+    },
+     {
+        "name": "Samara",
+        "country": "Russia"
+    },
+     {
+        "name": "Chelyabinsk",
+        "country": "Russia"
+    },
+     {
+        "name": "Nizhny Novgorod",
+        "country": "Russia"
+    },
+     {
+        "name": "Rostov-on-Don",
+        "country": "Russia"
+    },
+    {
+        "name": "Volgograd",
+        "country": "Russia"
+    },
+    {
+        "name": "Voronezh",
+        "country": "Russia"
     }
+    
+    
 ]
