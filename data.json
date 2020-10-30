@@ -1255,7 +1255,65 @@
     {
         "name": "Voronezh",
         "country": "Russia"
-    }
+    },
+     {
+        "name": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "name": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "name": "Munich",
+        "country": "Germany"
+    },
+    {
+        "name": "cologne",
+        "country": "Germany"
+    },
+    {
+        "name": "Stuttgart",
+        "country": "Germany"
+    },
+     {
+        "name": "Essen",
+        "country": "Germany"
+    },
+      {
+        "name": "Bremen",
+        "country": "Germany"
+    },
+      {
+        "name": "Bonn",
+        "country": "Germany"
+    },
+      {
+        "name": "kiel",
+        "country": "Germany"
+    },
+      {
+        "name": "Krefeld",
+        "country": "Germany"
+    },
+      {
+        "name": "Potsdam",
+        "country": "Germany"
+    },
+      {
+        "name": "Neuss",
+        "country": "Germany"
+    },
+      {
+        "name": "Ulm",
+        "country": "Germany"
+    },
+      {
+        "name": "Dortmund",
+        "country": "Germany"
+    },
+       
+    
     
     
 ]
