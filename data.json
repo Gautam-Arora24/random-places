@@ -1410,5 +1410,13 @@
   {
     "name": "Nickelsdorf",
     "country": "Austria"
+  },
+  {
+    "name": "Dodoma",
+    "country": "Tanzania"
+  },
+  {
+    "name": "Jerusalem",
+    "country": "Israel"
   }
 ]
