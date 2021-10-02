@@ -1418,5 +1418,37 @@
   {
     "name": "Jerusalem",
     "country": "Israel"
-  }
+  },
+  {
+    "name": "Islamabad",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Lahore",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Karachi",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Qutta",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Multan",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Bahawalpur",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Mirpur Khas",
+    "country": "Pakistan"
+  },
+  {
+    "name": "Sukkar",
+    "country": "Pakistan"
+  },
 ]
