@@ -214,7 +214,8 @@
   {
     "name": "Ardabil",
     "country": "Iran"
-  },{
+  },
+  {
     "name": "Semnan",
     "country": "Iran"
   },
@@ -1518,4 +1519,7 @@
     "name": "Sukkar",
     "country": "Pakistan"
   },
+  { "name": "Kanpur",
+     "country": "India" 
+  }
 ]
