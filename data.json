@@ -1521,5 +1521,47 @@
   },
   { "name": "Kanpur",
      "country": "India" 
+  },
+  {
+    "name":"prayagraj",
+    "country":"India"
+  },
+  {
+    "name":"Sarajevo",
+    "country":"Bosnia and Herzegovina"
+  }
+  ,
+  {
+    "name":"bhadohi",
+    "country":"India"
+  },
+  {
+    "name":"vadodra",
+    "country":"India"
+  }
+  ,
+  {
+    "name":"lucknow",
+    "country":"India"
+  },
+  {
+    "name":"panji",
+    "county":"India"
+  },
+  {
+   "name":"hoshangabad",
+   "country":"India"
+  },
+  {
+    "name":"mirzapur",
+    "country":"India"
+  },
+  {
+    "name":"kochi",
+    "country":"India"
+  },
+  {
+    "name":"adamstown",
+    "country":"England"
   }
 ]
