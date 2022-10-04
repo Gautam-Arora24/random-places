@@ -960,6 +960,30 @@
     "country": "Spain"
   },
   {
+    "name": "Ciudad Real",
+    "country": "Spain"
+  },
+  {
+    "name": "Jerez",
+    "country": "Spain"
+  },
+  {
+    "name": "Almería",
+    "country": "Spain"
+  },
+  {
+    "name": "Salamanca",
+    "country": "Spain"
+  },
+  {
+    "name": "Huelva",
+    "country": "Spain"
+  },
+  {
+    "name": "Teruel",
+    "country": "Spain"
+  },
+  {
     "name": "Lisbon",
     "country": "Portugal"
   },
@@ -1559,49 +1583,45 @@
     "name": "Sukkar",
     "country": "Pakistan"
   },
-  { "name": "Kanpur",
-     "country": "India" 
+  { "name": "Kanpur", "country": "India" },
+  {
+    "name": "prayagraj",
+    "country": "India"
   },
   {
-    "name":"prayagraj",
-    "country":"India"
+    "name": "Sarajevo",
+    "country": "Bosnia and Herzegovina"
   },
   {
-    "name":"Sarajevo",
-    "country":"Bosnia and Herzegovina"
-  }
-  ,
-  {
-    "name":"bhadohi",
-    "country":"India"
+    "name": "bhadohi",
+    "country": "India"
   },
   {
-    "name":"vadodra",
-    "country":"India"
-  }
-  ,
-  {
-    "name":"lucknow",
-    "country":"India"
+    "name": "vadodra",
+    "country": "India"
   },
   {
-    "name":"panaji",
-    "county":"India"
+    "name": "lucknow",
+    "country": "India"
   },
   {
-   "name":"hoshangabad",
-   "country":"India"
+    "name": "panaji",
+    "county": "India"
   },
   {
-    "name":"mirzapur",
-    "country":"India"
+    "name": "hoshangabad",
+    "country": "India"
   },
   {
-    "name":"kochi",
-    "country":"India"
+    "name": "mirzapur",
+    "country": "India"
   },
   {
-    "name":"adamstown",
-    "country":"Pitcairn island(British Overseas Territory"
+    "name": "kochi",
+    "country": "India"
+  },
+  {
+    "name": "adamstown",
+    "country": "Pitcairn island(British Overseas Territory"
   }
 ]
